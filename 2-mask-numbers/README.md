@@ -6,5 +6,5 @@ I have a credit card number with 4 separate 4 character values e.g. `abc4-3322-f
 
 ```js
 card = "abc4-3322-fg45-55nn"
-console.log(maskNumbers(card)) #output is 55nn
+console.log(maskNumbers(card)) #output is abc#-####-fg##-##nn
 ```
